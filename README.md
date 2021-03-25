@@ -1,91 +1,27 @@
-#EXTINF:-1,A&E LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6673
-#EXTINF:-1,AMC LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6674
-#EXTINF:-1,AXN LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6762
-#EXTINF:-1,Azteca 13 MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6682
-#EXTINF:-1,Azteca Noticias MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6676
-#EXTINF:-1,Animal Planet LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6675
-#EXTINF:-1,Canal 5 HD MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6685
-#EXTINF:-1,Canal De Las Estrellas MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6686
+
 #EXTINF:-1,Cartoon Network FHD LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6689
-#EXTINF:-1,Cinecanal FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6691
+
 #EXTINF:-1,De Pelicula MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6711
-#EXTINF:-1,Discovery Civilization LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6695
-#EXTINF:-1,Disney Channel FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6700
+
 #EXTINF:-1,Distrito Comedia MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6705
-#EXTINF:-1,ESPN LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6710
-#EXTINF:-1,ESPN 2 LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6709
-#EXTINF:-1,ESPN 3 LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/33497
+
 #EXTINF:-1,Foro TV MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6713
-#EXTINF:-1,Fox LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6724
-#EXTINF:-1,Fox Action FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6714
-#EXTINF:-1,Fox Classics FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6716
-#EXTINF:-1,Fox Premium Movies LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6720
-#EXTINF:-1,Fox Series LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6718
-#EXTINF:-1,Fox Cinema LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6715
-#EXTINF:-1,Fox Life LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6719
-#EXTINF:-1,Fox Sports LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/67322
-#EXTINF:-1,Fox Sport 2 LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/67132
-#EXTINF:-1,Glitz LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6669
-#EXTINF:-1,Golden MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6727
-#EXTINF:-1,Golden Edge MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6728
+
 #EXTINF:-1,MTV Hits LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6756
 #EXTINF:-1,Multimedios MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6733
-#EXTINF:-1,Nickelodeon LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6736
-#EXTINF:-1,TNT Series FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6750
+
 #EXTINF:-1,Tru TV LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6760
-#EXTINF:-1,Unicable LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6752
-#EXTINF:-1,Studio Universal MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6741
-#EXTINF:-1,Discovery Home and Health LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6696
+
 #EXTINF:-1,Proyecto 40 MX
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6738
-#EXTINF:-1,Space FHD MX
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6740
-#EXTINF:-1,TCM LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6758
-#EXTINF:-1,Canal Gourmet FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6687
-#EXTINF:-1,Lifetime LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6732
-#EXTINF:-1,SyFy FHD LAM
-http://ipflix.click:8080/Ester/s9mdb4ez9y/6742
+
 #EXTINF:-1,TeleFormula FHD LAM
 http://ipflix.click:8080/Ester/s9mdb4ez9y/6745
 #EXTINF:-1,Azteca Noticias LAM
@@ -114,16 +50,13 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/626927
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626901
 #EXTINF:-1,Encuentro ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626926
-#EXTINF:-1,Fox Sports 1 HD ARG
-http://ipflix.click:8080/Ester/s9mdb4ez9y/626925
 #EXTINF:-1,Garage TV ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626922
 #EXTINF:-1,Telefe HD ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626917
 #EXTINF:-1,TeleMax ARG
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626916
-#EXTINF:-1,TYC ARG
-http://ipflix.click:8080/Ester/s9mdb4ez9y/626909
+
 #EXTINF:-1,Antares TV PE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/626981
 #EXTINF:-1,ATV HD PE
@@ -174,3 +107,14 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/626947
 http://ipflix.click:8080/Ester/s9mdb4ez9y/637344
 #EXTINF:-1,WAPA HD LA
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638077
+
+#EXTINF:-1,Canal Capital 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/15673
+#EXTINF:-1,Canal Wow TV HD 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/15670
+#EXTINF:-1,Caracol HD 
+http://ipflix.click:8080/Ester/s9mdb4ez9y/15668
+#EXTINF:-1,RCN CO
+http://ipflix.click:8080/Ester/s9mdb4ez9y/50891
+#EXTINF:-1,Senal Colombia HD CO
+http://ipflix.click:8080/Ester/s9mdb4ez9y/629054
