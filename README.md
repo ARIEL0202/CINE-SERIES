@@ -19,7 +19,7 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8
 #EXTINF:-72 group-title="CINE Y SERIES", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-72 group-title="CINE Y SERIES", TU CINE
+#EXTINF:-72 group-title="CINE Y SERIES", TU CINE   
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
 #EXTINF:-72 group-title="CINE Y SERIES", CINE HORRORFY
