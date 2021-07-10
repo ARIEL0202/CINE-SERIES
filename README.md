@@ -25,7 +25,7 @@ https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 #EXTINF:-72 group-title="CINE Y SERIES", CINE HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-72 group-title="CINE Y SERIES",CINE JUNTOS
+#EXTINF:-72 group-title="CINE Y SERIES",CINE JUNTOS  
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/5NMZLgS0/CINE-SURE-O.jpg" group-title="CINE Y SERIES", CINE SUREÑO
