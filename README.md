@@ -46,9 +46,6 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="140328" tvg-name="CINE CASTATROFICO" tvg-logo="" group-title="CINE", CINE CASTATROFICO
-http://tv.pluscrt.com:25461/live/jpacas/1983JpacaS/40270.m3u8?PlaylistM3UCL
-
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV SPOTLIGHT
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -94,17 +91,20 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1630774515-now.m3u8
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wlhourdcXw55qexuUiQF72p5wTRJL2bh8g&usqp=CAU" group-title="CINE Y SERIES", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
+https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="CINE Y SERIES", CANELA TV
+https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="CINE Y SERIES", CANELA TV 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE Y SERIES", MY TIME MOVIES 1
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="CINE Y SERIES", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="CINE",Pluto TV Cine
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=4319&deviceDNT=0&deviceModel=0
@@ -291,9 +291,6 @@ http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 #EXTINF:-79 tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title="CINE Y SERIES", CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
-#EXTINF:-801 tvg-logo="https://i.postimg.cc/FsQdJYCv/flixtube.png" group-title="CINE Y SERIES", FLIXTUBE
-https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
-
 #EXTINF:-80 tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="CINE Y SERIES", WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
@@ -303,4 +300,8 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/bwgkYY4Q/zptv.png" group-title="CINE", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
 
+#EXTINF:-1 tvg-id="140328" tvg-name="CINE CASTATROFICO" tvg-logo="" group-title="CINE", CINE CASTATROFICO
+http://tv.pluscrt.com:25461/live/jpacas/1983JpacaS/40270.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://orbittv.net/images/orbit_logo4.png" group-title="CINE Y SERIES", ORBIT TV
+https://ss3.domint.net:3134/otv_str/orbittv/media.m3u8
