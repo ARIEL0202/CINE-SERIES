@@ -7,6 +7,18 @@ http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATR
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-13NMPnGbChA/XkyjXafughI/AAAAAAAAwIE/5GeoQycy3SoMZ91mla3A_jqJqCqTMvz9wCK8BGAsYHg/s0/2020-02-18.png" group-title="CINE", Orbit Tv
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="CINE Y SERIES", ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/EUROPAEUROPALOGO2016.png" group-title="CINE Y SERIES", EUROPA EUROPA
+https://qlobbidev.s.llnwi.net/bpk-tv/EUROPA/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/150px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES", DHE
+https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
+https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
+
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png" group-title="SERIES", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 
@@ -50,6 +62,21 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV FAMILY
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qgYRzl1.jpg" group-title="CINE Y SERIES", RAKUTEN SPOTLIGHT
+https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dWNxCqp.png" group-title="CINE Y SERIES", RAKUTEN TV DRAMA
+https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="CINE Y SERIES", RAKUTEN COMEDIA    
+https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="CINE Y SERIES", RAKUTEN ACCION
+https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hboiinD.jpg" group-title="CINE Y SERIES", RAKUTEN FAMILIA
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="5f1ac1f1b66c76000790ef27" tvg-name="Pluto TV Cine" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png" group-title="CINE",Pluto TV Cine
