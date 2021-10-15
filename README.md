@@ -26,7 +26,7 @@ http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-120 tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="SERIES", TELERED
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8   
 
 #EXTINF:-72 group-title="CINE Y SERIES", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
