@@ -16,6 +16,9 @@ https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1AkpM1rC75w/YGdiuKFuQzI/AAAAAAABBGg/lG-2DxIFeU8K4vxZQxqPVZ6J29Bu5ZuSgCK8BGAsYHg/s512/2021-04-02.png" group-title="CINE Y SERIES", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-me1JCsDAmTs/Xwkz4pXyW2I/AAAAAAAA2pA/7nqIBFl38eQ5sgpW9h7fP3vktG7Bd6wfwCK8BGAsYHg/s0/2020-07-10.png" group-title="CINE Y SERIES", TV MAS
+https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/84989_Canal_74_TeVe.png" group-title="CINE Y SERIES", 74 TV
 https://stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
@@ -236,36 +239,6 @@ https://qlobbidev.s.llnwi.net/bpk-tv/DHE/hls/index.m3u8
 
 #EXTINF:-1 tvg-id="101462" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://lh3.googleusercontent.com/-j_2wCJpRlBs/X0QTOy-h68I/AAAAAAAA47k/JLK21FNZEy8o85F8WNJ4QRJwDOwsWvrDQCK8BGAsYHg/s0/2020-08-24.png" group-title="SERIES", Mi TV Televisión Clásica
 http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV SPOTLIGHT
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV SHOWS
-https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV COMEDY MOVIES
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV ACTION MOVIES
-https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV FAMILY
-https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="CINE Y SERIES", Canal Cinesverdi 
-https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1361963964469493760/KjCFXNWp_400x400.jpg" group-title="CINE Y SERIES", FEEL GOOD VERDI
-https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR0X7REz4ISXLJloQhacO1qP2R3vnMm-uncrw&usqp=CAU" group-title="CINE Y SERIES", ZEE MUNDO TV
-https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1630774515-now.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/115395_AC_Vision.png" group-title="CINE Y SERIES", ACV
-https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51SN4YBCY6L.png" group-title="CINE Y SERIES", BUTACA TV
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="CINE Y SERIES", CANELA TV
 https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
