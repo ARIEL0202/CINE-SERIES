@@ -229,3 +229,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png" group-title="CINE Y SERIES 2", LOS ASESINATOS DE MIDSOMER
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca8310a30e00074fab92/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png" group-title="CINE Y SERIES 2", ANA Y LOS 7
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acce7f17797000718f9be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png" group-title="CINE Y SERIES 2", CURRO JIMENEZ
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a680d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png" group-title="CINE Y SERIES 2", DEGRASSI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae20-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c93798e-e952-447f-a365-6bf6f3f1ab9a&userId=&serverSideAds=true
+
