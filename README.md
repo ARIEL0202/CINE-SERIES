@@ -16,6 +16,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-120 tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="SERIES", TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8   
 
+#EXTINF:-1,Wow TV www.achoAPPS.com
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
 #EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
