@@ -10,8 +10,11 @@ https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
 #EXTINF:-70 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="CINE Y SERIES", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-120 tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="SERIES", TELERED
-http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8   
+#EXTINF:-1 tvg-id="104433" tvg-name="Telered" tvg-logo="https://lh3.googleusercontent.com/-NCv13SGaRQE/XtRgHXHBOVI/AAAAAAAA1VM/pv6D0L7XqWE_PqRQ4p47m9yUBtMm3mlvACK8BGAsYHg/s0/2020-05-31.png", Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w499579538.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/toW8xWKbpS-28By8XvguQOg6oG0tun1oXmvmZRnY-TUiHmgsWdHeBNfoZtlbiAbdJTA" group-title="CINE Y SERIES", TELERED
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES", CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
@@ -124,50 +127,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091
 #EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602344112246.jpg", MORBIDO
 http://51.79.18.128:8081/LATINO%7CMORBIDO/LATINO%7CMORBIDO/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", HORRORFY
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", JUNTOS
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinelife Full HD" tvg-logo="https://play-lh.googleusercontent.com/y-qdXLiwMEt6IStRK4aF5gCFFegWt64jRoggBzWJweKv0Hry6-Zrwte3X_441TnEZd4" group-title="PELICULAS",Cinelife Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1684
-
-#EXTINF:-1 tvg-id="" tvg-name="Cinelife Full HD" tvg-logo="https://play-lh.googleusercontent.com/y-qdXLiwMEt6IStRK4aF5gCFFegWt64jRoggBzWJweKv0Hry6-Zrwte3X_441TnEZd4" group-title="PELICULAS",Cinelife Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1684
-
-
-
-#EXTINF:-72 group-title="CINE Y SERIES", CINE SUREÑO
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
-
-#EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/ry4N5p91/cinelatino.png" group-title="CINE Y SERIES", CINE LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="138985" tvg-name="CINE LATINO " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="00 - Argentina", CINE LATINO 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true&PlaylistM3UCL
-
 #EXTINF:-1 tvg-logo="https://prnewswire2-a.akamaihd.net/p/1893751/sp/189375100/thumbnail/entry_id/1_usk3hzv4/def_height/1654/def_width/3159/version/100011/type/2/q/100" group-title="CINE Y SERIES", NUESTRA VISION
 https://siloh-ns1.plutotv.net/lilo/production/Nuestravision/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Mytime Full HD (ES)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png" group-title="PELICULAS",Mytime Full HD (ES)
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/182
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Sureño Full HD" tvg-logo="https://1.bp.blogspot.com/-r73JcDJhjh4/YGFddenYLzI/AAAAAAAA1TY/-gj2SeiRbcgrlOqo-GAEnSsuW05OarSVQCLcBGAsYHQ/s200/CineSureno.jpg" group-title="PELICULAS",Cine Sureño Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1680
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Real Full HD" tvg-logo="https://1.bp.blogspot.com/-Vwq-ycEIPtg/YGFeWWg5SKI/AAAAAAAA1To/dGRN_McTqCoGKFn-ugePmQtWPOq81okLwCLcBGAsYHQ/s320/CineReal.jpg" group-title="PELICULAS",Cine Real Full HD
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1683
-
-#EXTINF:-1 tvg-id="" tvg-name="Mytime Full HD (MX)" tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png" group-title="PELICULAS",Mytime Full HD (MX)
-http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/188
 
