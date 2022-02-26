@@ -121,6 +121,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acd36779de70007a
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de58ef515635d00091f605d/colorLogoPNG.png" group-title="CINE Y SERIES 2", DEGRASSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091f605d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae20-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c93798e-e952-447f-a365-6bf6f3f1ab9a&userId=&serverSideAds=true
 
+#EXTINF: -1 group-title = "Peliculas" tvg-logo = "https://innovatv.live/posters/1602344112246.jpg", MORBIDO
+http://51.79.18.128:8081/LATINO%7CMORBIDO/LATINO%7CMORBIDO/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", HORRORFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", JUNTOS
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2018/12/Olympusat_logo.png" group-title="CINE Y SERIES", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinelife Full HD" tvg-logo="https://play-lh.googleusercontent.com/y-qdXLiwMEt6IStRK4aF5gCFFegWt64jRoggBzWJweKv0Hry6-Zrwte3X_441TnEZd4" group-title="PELICULAS",Cinelife Full HD
+http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1684
+
 #EXTINF:-1 tvg-id="" tvg-name="Cinelife Full HD" tvg-logo="https://play-lh.googleusercontent.com/y-qdXLiwMEt6IStRK4aF5gCFFegWt64jRoggBzWJweKv0Hry6-Zrwte3X_441TnEZd4" group-title="PELICULAS",Cinelife Full HD
 http://gmsiptv.ddns.net:25461/gmsiptv/gmsiptv/1684
 
