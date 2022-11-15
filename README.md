@@ -1,3 +1,77 @@
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E01" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E01
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130195.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E02" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E02
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130196.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E03" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E03
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130197.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E04" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E04
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130198.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E05" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E05
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130199.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E06" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E06
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130200.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E07" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E07
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130201.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E08" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E08
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130202.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E09" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E09
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130203.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S01 E10" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S01 E10
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130204.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E01" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E01
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130205.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E02" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E02
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130206.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E03" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E03
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130207.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E04" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E04
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130208.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E05" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E05
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130209.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E06" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E06
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130210.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E07" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E07
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130211.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E08" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E08
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130212.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E09" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E09
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130213.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E10" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E10
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130214.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E11" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E11
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130215.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E12" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E12
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130216.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S02 E13" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S02 E13
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130217.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E01" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E01
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130218.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E02" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E02
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130219.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E03" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E03
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130220.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E04" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E04
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130221.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E05" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E05
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130222.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E06" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E06
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130223.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E07" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E07
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130224.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E08" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E08
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130225.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E09" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E09
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130226.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E10" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E10
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130227.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E11" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E11
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130228.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E12" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E12
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130229.mkv
+#EXTINF:-1 tvg-ID="" tvg-name="El cuento de la criada S03 E13" tvg-logo="https://www.themoviedb.org/t/p/w1280/i4gfpSCEvHp9upRDZLTUX4SHRdV.jpg" group-title="|SERIES| SPANISH",El cuento de la criada S03 E13
+http://balkanfree.net:25461/series/9YpfApeXmy2rBSh/mYaiAe3upYfBvBq/130230.mkv
+
+
 
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES", SCI-FI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
